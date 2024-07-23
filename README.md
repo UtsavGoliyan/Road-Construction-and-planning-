@@ -27,7 +27,7 @@ In the second part of the proposed work, We tried to focus on the very common is
 3. Project Resource Requirement
 Software Requirements
 
-This project has been created using CODE BLOCKS C Programming language has been used for the code
+This project has been created using CODE BLOCKS C++ Programming language has been used for the code
 
 Hardware Requirements
 
